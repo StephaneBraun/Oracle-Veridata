@@ -1,4 +1,4 @@
-# Oracle-Veridata
+# Oracle Veridata Converter Tool
 
 This tool converts all Veridata OOS Json files as CSV files, for insert, delete and update.
 
